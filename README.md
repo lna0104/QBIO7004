@@ -41,7 +41,7 @@ The plots are stored in the "Plots/" directory and include the following files:
 
 ## Report
 
-The RMarkdown file provides instructions for creating a reproducible report for this model. The report includes a reference file stored in references.bib, and the reference style used is Council of Science Editors (CSE).
+The RMarkdown file provides instructions for creating a reproducible report for this model. The report includes a reference file stored in references.bib, and the reference style used is APA (7th edition).
 
 ## Authors
 
