@@ -1,4 +1,4 @@
-# QBIO7004
+# QBIO7004 - Individual-based Model Project
 
 This repository contains R code to produce an individual-based model and accompanying report. The project simulates the complex interactions among prey, predators, and their environment, specifically focusing on sheep, wolves, and grass.
 
