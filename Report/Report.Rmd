@@ -2,7 +2,8 @@
 title: "QBIO7004 - Project Report"
 author: "Le Na Ngo"
 date: "2024-05-17"
-output: html_document
+output: 
+   rmdformats::html_clean: default
 bibliography: references.bib
 link-citations: true
 csl: apa.csl
@@ -487,9 +488,11 @@ The model demonstrates the importance of resource availability for both species,
 
 # Conclusion
 
-In conclusion, this study emphasizes the dynamic character of predator-prey relationships and identifies crucial elements that determine the stability or instability of such ecological interactions. It is critical to monitor predator populations to prevent their numbers from falling too low, which may disturb the ecological equilibrium. Conservation efforts should include both the construction of protected areas and the execution of breeding programs. Humans can use controlled breeding programs for prey and predator species to efficiently manage the population's growth rates and eliminate boom-and-bust cycles that result in periods of abundance followed by rapid reductions. In addition, we may create and manage wildlife corridors that allow prey and predators to move naturally. This technique enables animals to access a variety of resources throughout the area.
+In conclusion, this study emphasizes the dynamic character of predator-prey relationships and identifies crucial elements that determine the stability or instability of such ecological interactions. It is critical to monitor predator populations to prevent their numbers from falling too low, which may disturb the ecological equilibrium. Conservation efforts should include both the construction of protected areas and the execution of breeding programs. Humans can use controlled breeding programs for prey and predator species to efficiently manage the population's growth rates and eliminate boom-and-bust cycles that result in periods of abundance followed by rapid reductions. In addition, we may create and manage wildlife corridors that allow prey and predators to move naturally. This technique enables animals to access a variety of resources throughout the area. Moving forward, we can improve and expand our model by integrating new biological parameters such as habitat heterogeneity, climate variability, and human influences. These advancements will allow for the simulation of more complex and realistic ecosystems.
 
-Moving forward, we can improve and expand our model by integrating new biological parameters such as habitat heterogeneity, climate variability, and human influences. These advancements will allow for the simulation of more complex and realistic ecosystems.
+# Github
+
+GitHub repository that contains all the code and simulated result: <https://github.com/lna0104/QBIO7004/>
 
 # References {.unnumbered}
 
