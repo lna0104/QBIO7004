@@ -6,7 +6,7 @@ output: html_document
 nocite: '@*'
 bibliography: references.bib
 link-citations: true
-csl: biomed-central.csl
+csl: council-of-science-editors-author-date.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE,
 
 # Motivation
 
-For a very long time, the preservation of biological and ecological systems has been a major priority. To develop practical solutions, it is crucial to first understand natural relationships, particularly the dynamic interaction between predators and their prey. This interaction is a central theme in both ecology and mathematical ecology due to its universal significance and importance @berryman1992orgins. These issues are more complex than they initially appear. Predators have an enormous impact on predator-prey dynamics. Predation can have a major impact on prey populations and their habitats, which may result in the extinction of prey species and the subsequent extinction of predators @chakraborty2019complexity. Conversely, in an ecosystem where predators are entirely removed, prey populations can become overpopulated, resulting in food shortages for them. Therefore, it is essential to maintain a balance in these interactions to ensure ecosystem stability. The initial differential equations that describe the interactions between prey and predators were separately developed by Lotka @lotka1925elements and Volterra @volterra1927variazioni, and are commonly referred to as the Lotka-Volterra prey-predator model. Progress in this field has been driven by effective collaboration between mathematicians and ecologists.
+For a very long time, the preservation of biological and ecological systems has been a major priority. To develop practical solutions, it is crucial to first understand natural relationships, particularly the dynamic interaction between predators and their prey. This interaction is a central theme in both ecology and mathematical ecology due to its universal significance and importance @berryman1992orgins. These issues are more complex than they initially appear. Predators have an enormous impact on predator-prey dynamics. Predation can have a major impact on prey populations and their habitats, which may result in the extinction of prey species and the subsequent extinction of predators @chakraborty2019complexity. Conversely, in an ecosystem where predators are entirely removed, prey populations can become overpopulated, resulting in food shortages for them. Therefore, it is essential to maintain a balance in these interactions to ensure ecosystem stability. The initial differential equations that describe the interactions between prey and predators were separately developed by @lotka1925elements and @volterra1927variazioni, and are commonly referred to as the Lotka-Volterra prey-predator model. Progress in this field has been driven by effective collaboration between mathematicians and ecologists.
 
 Building on this idea, my project aims to model the complex interactions among prey, predators, and their environment (grass field). The objective is to enhance our understanding of ecological principles through interactive simulation. By investigating the impacts of individual behaviors on ecosystem stability and biodiversity, we aim to uncover valuable insights into the dynamics of natural systems.
 

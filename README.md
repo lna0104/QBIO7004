@@ -31,7 +31,7 @@ R script provides all the code to generate the simulation of the model.
 
 ## Plots
 
-The plots are stored in the "plots/" directory and include the following files:
+The plots are stored in the "Plots/" directory and include the following files:
 
 -   **simulation_movie.gif**: This file runs through all 60 time steps of the simulation.
 
@@ -41,7 +41,7 @@ The plots are stored in the "plots/" directory and include the following files:
 
 ## Report
 
-RMarkdown provides instructions for creating a reproducible report for this model.
+The RMarkdown file provides instructions for creating a reproducible report for this model. The report includes a reference file stored in references.bib, and the reference style used is Council of Science Editors (CSE).
 
 ## Authors
 
